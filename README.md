@@ -80,4 +80,4 @@ minha-api
 
 | Nome | GitHub |
 |:-----|:-------|
-| Seu Nome Aqui | [@rsg616](https://github.com/rsg616) |
+| NESTOR!! | [@rsg616](https://github.com/rsg616) |
